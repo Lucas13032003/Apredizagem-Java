@@ -15,6 +15,7 @@ public class Principal {
 		idadeAluno = entrada.nextInt();
 		oi.mandaBoasVindas(nomeAluno, idadeAluno);
 		
+		System.out.println(" Vai da certo!!!");
 		entrada.close();
 
 	}
