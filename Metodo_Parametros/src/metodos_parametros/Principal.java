@@ -17,6 +17,7 @@ public class Principal {
 		
 		System.out.println(" Vai da certo!!!");
 		entrada.close();
+		System.out.println(" Deu certo !");
 
 	}
 
